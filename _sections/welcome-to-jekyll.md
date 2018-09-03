@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: 关于Jekyll!
 icon: fa-check
 order: 5
 ---

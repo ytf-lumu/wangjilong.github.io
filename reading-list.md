@@ -1,12 +1,12 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: 书柜
+subtitle: 我读过的一些书
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+我爱学习，学习使我快乐!以下是我正在阅读的一些内容：
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
